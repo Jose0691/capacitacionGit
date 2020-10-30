@@ -1,0 +1,2 @@
+# capacitacionGit
+Repositorio para practicas
